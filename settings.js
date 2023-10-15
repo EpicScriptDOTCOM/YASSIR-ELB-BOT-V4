@@ -15,15 +15,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['201098906252'] //ur owner number
+global.owner = ['212687729258'] //ur owner number
 global.ownername = "❤️𝕐𝔸𝕊𝕊𝕀ℝ-𝔼𝕃𝔹-𝔹𝕆𝕋❤️❤️" //ur owner name
 global.ytname = "YT: EPIC PLAY SCRIBE" //ur yt chanel name
 global.socialm = "GitHub: https://github.com/EpicScriptDOTCOM" //ur github or insta name
 global.location = "Africa, Morocco, Cairo" //ur location
 
 //bot bomdy 
-global.ownernomer = "201098906252" //ur number
-global.premium = ['201098906252'] //ur premium number
+global.ownernomer = "212687729258" //ur number
+global.premium = ['212687729258'] //ur premium number
 global.botname = '❤️𝕐𝔸𝕊𝕊𝕀ℝ-𝔼𝕃𝔹-𝔹𝕆𝕋❤️' //ur bot name
 global.linkz = "https://instagram.com/kastro_gamer?igshid=OGQ5ZDc2ODk2ZA==" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
